@@ -7,13 +7,13 @@ This is the a quick starter project made and used by Benjamin Code to quickly ex
 To install dependencies all you need to do is run this command:
 
 ```shell
-npm install
+yarn
 ```
 
 ### Dev server
 
 ```shell
-npm run dev
+yarn dev
 ```
 
 Run the above command to launch dev server and then go to `localhost:3000`
@@ -21,7 +21,7 @@ Run the above command to launch dev server and then go to `localhost:3000`
 ### Build
 
 ```shell
-npm run build
+yarn build
 ```
 
 To compile codes & build for production. That will create a **"./dist"** directory in the root (more details [here](https://vitejs.dev/guide/build.html)).
